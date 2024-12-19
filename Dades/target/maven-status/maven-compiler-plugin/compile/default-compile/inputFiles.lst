@@ -1,0 +1,10 @@
+/home/nacro/Documents/GitHub/DAM-M06-UF02-PR2.3-24-25-Punt-Partida/src/main/java/com/project/Main.java
+/home/nacro/Documents/GitHub/DAM-M06-UF02-PR2.3-24-25-Punt-Partida/src/main/java/com/project/domain/Llibre.java
+/home/nacro/Documents/GitHub/DAM-M06-UF02-PR2.3-24-25-Punt-Partida/src/main/java/com/project/domain/Exemplar.java
+/home/nacro/Documents/GitHub/DAM-M06-UF02-PR2.3-24-25-Punt-Partida/src/main/java/com/project/sqliteutils/MainSQLite.java
+/home/nacro/Documents/GitHub/DAM-M06-UF02-PR2.3-24-25-Punt-Partida/src/main/java/com/project/domain/Autor.java
+/home/nacro/Documents/GitHub/DAM-M06-UF02-PR2.3-24-25-Punt-Partida/src/main/java/com/project/domain/Biblioteca.java
+/home/nacro/Documents/GitHub/DAM-M06-UF02-PR2.3-24-25-Punt-Partida/src/main/java/com/project/domain/Persona.java
+/home/nacro/Documents/GitHub/DAM-M06-UF02-PR2.3-24-25-Punt-Partida/src/main/java/com/project/dao/Manager.java
+/home/nacro/Documents/GitHub/DAM-M06-UF02-PR2.3-24-25-Punt-Partida/src/main/java/com/project/domain/Prestec.java
+/home/nacro/Documents/GitHub/DAM-M06-UF02-PR2.3-24-25-Punt-Partida/src/main/java/com/project/sqliteutils/UtilsSQLite.java
